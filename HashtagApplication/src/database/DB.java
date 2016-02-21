@@ -7,8 +7,8 @@ public class DB {
 	final String DB_URL="jdbc:mysql://localhost:3306/hash";
 	
 	//  Database credentials
-	 final String USER = "root";
-	 final String PASS = "root";
+	 final String USER = "";
+	 final String PASS = "";
 	 
 	 
 	//	Class.forName(JDBC_DRIVER);
